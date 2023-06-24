@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Alright, welcome to the tutorial! To start, we'll need to create a virtual machine using Microsoft Azure. Feel free to name the VM anything you want, as long as it makes sense to you. The VM should be running Windows 10 and have at least 2-4 vcpus so that the VM will run smoothly.
 <p>
-<img src="https://imgur.com/O2lgWbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bYpnxoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -36,7 +36,7 @@ Alright, welcome to the tutorial! To start, we'll need to create a virtual machi
 
 Next, we're going to connect to the VM using RDP. Use the VM's public IPv4 address when connecting. 
 <p>
-<img src="https://imgur.com/Rx7Wm0d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zZubrQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
